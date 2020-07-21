@@ -1,0 +1,18 @@
+{
+    "name": "yidas/worker-dispatcher",
+    "description": "PHP multi-processing task dispatcher with managing workers",
+    "keywords": ["PHP", "Multiprocessing", "pcntl", "task", "worker", "worker-dispatcher", "worker-manage"],
+    "homepage": "https://github.com/yidas/php-worker-dispatcher",
+    "type": "library",
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/yidas/php-worker-dispatcher/issues",
+        "source": "https://github.com/yidas/php-worker-dispatcher"
+    },
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
