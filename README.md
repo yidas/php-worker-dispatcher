@@ -102,7 +102,7 @@ INSTALLATION
 
 Run Composer in your project:
 
-    composer require yidas/php-worker-dispatcher ~1.0.0
+    composer require yidas/worker-dispatcher ~1.0.0
     
 Then you could use the class after Composer is loaded on your PHP project:
 
