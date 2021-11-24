@@ -85,7 +85,7 @@ This library is implemented by PHP PCNTL control, which provides a main PHP-CLI 
 
 <img src="https://raw.githubusercontent.com/yidas/php-worker-dispatcher/master/img/introduction.png" />
 
-> Since PHP has no shared variables or queue mechanism natively, if you don’t have an external job queue, this library provides a task average dispatcher to simply solve the core distributed processing problem..
+> Since PHP has no shared variables or queue mechanism natively, if you don’t have an external job queue, this library provides a task average dispatcher to simply solve the core distributed processing problem.
 
 ---
 
