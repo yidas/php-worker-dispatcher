@@ -94,7 +94,7 @@ REQUIREMENTS
 
 This library requires the following:
 
-- Unix/Linux Environment
+- PHP [PCNTL](https://www.php.net/manual/en/pcntl.installation.php)
 - PHP CLI 5.4.0+
 
 ---
