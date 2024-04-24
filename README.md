@@ -19,7 +19,7 @@ Features
 
 - ***Tasks Dispatching** to each worker process*
 
-- ***Elegent Interface** for setup and use*
+- ***Elegant Interface** for setup and use*
 
 ---
 
