@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://codeigniter.com/" target="_blank">
+    <a href="https://www.php.net/" target="_blank">
         <img src="https://www.php.net/images/logos/php-logo-bigger.png" height="60px">
     </a>
     <h1 align="center">PHP Worker Dispatcher</h1>
